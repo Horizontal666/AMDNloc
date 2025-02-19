@@ -120,9 +120,9 @@ template_size_x = 8
 template_size_y = 16
 
 
-savedatadir = f'/workspace/wbh/DeepMIMO-5GNR-localpycharm/tasks/0_WAIRD/results/generated_{scenario}_{carrierFreq}_{maxPathNum}_' + str(Pattern_t['Power']) + f'_{Nt[0]}_{Nt[1]}_{Nt[2]}_{Nr[0]}_{Nr[1]}_{Nr[2]}_{int(BWGHz * 1000)}_{sampledCarriers}/'
-# savedatadir = f'/workspace/wbh/DeepMIMO-5GNR-localpycharm/tasks/0_WAIRD/results/generated_{scenario}_{carrierFreq}_{maxPathNum}_' + str(Pattern_t['Power']) + f'_{Nt[0]}_{Nt[1]}_{Nt[2]}_{Nr[0]}_{Nr[1]}_{Nr[2]}_{int(BWGHz * 1000)}_{sampledCarriers}/SNR_{SNR}/' #NLOS SNR
-saveImagesforOverleafdir = f'/workspace/wbh/DeepMIMO-5GNR-localpycharm/tasks/0_WAIRD/results/draw/WAIRD/'
+savedatadir = f'/workspace/wbh/DeepMIMO-5GNR-localpycharm/tasks/0_WAIRD_git/results/generated_{scenario}_{carrierFreq}_{maxPathNum}_' + str(Pattern_t['Power']) + f'_{Nt[0]}_{Nt[1]}_{Nt[2]}_{Nr[0]}_{Nr[1]}_{Nr[2]}_{int(BWGHz * 1000)}_{sampledCarriers}/'
+# savedatadir = f'/workspace/wbh/DeepMIMO-5GNR-localpycharm/tasks/0_WAIRD_git/results/generated_{scenario}_{carrierFreq}_{maxPathNum}_' + str(Pattern_t['Power']) + f'_{Nt[0]}_{Nt[1]}_{Nt[2]}_{Nr[0]}_{Nr[1]}_{Nr[2]}_{int(BWGHz * 1000)}_{sampledCarriers}/SNR_{SNR}/' #NLOS SNR
+saveImagesforOverleafdir = f'/workspace/wbh/DeepMIMO-5GNR-localpycharm/tasks/0_WAIRD_git/results/draw/WAIRD/'
 
 # classified_images_file = 'classified_images_' + str(num_images) + '_' + str(sim_threshold) + '_' + str(dist_threshold) + '.csv'
 # classified_images_file = 'classified_images_'  + str(template_size_x) + '_' + str(template_size_y) + '_' + str(num_images) + '_' + str(sim_threshold) + '_' + str(dist_threshold) + '.csv'
