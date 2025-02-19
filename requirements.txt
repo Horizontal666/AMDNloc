@@ -1,4 +1,5 @@
-Notice that python==3.11.5. Please refer to the table below to find the corresponding package versions.
+Notice that python==3.11.5. 
+Please refer to the table below to find the corresponding package versions.
 
 # Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main    http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
