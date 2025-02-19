@@ -1,5 +1,7 @@
-Notice that python==3.11.5. 
-Please refer to the table below to find the corresponding package versions.
+Installation Order:
+1. Ensure `python==3.11.5` is installed.  
+2. Follow the execution sequence in `compute_offset_WAIRD.ipynb` to identify required packages, then install them using the versions specified in the table below. 
+
 
 # Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main    http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
