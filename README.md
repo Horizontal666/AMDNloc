@@ -1,7 +1,9 @@
 # AMDNloc
 This repository is the Python implementation of paper _"[Multi-Sources Fusion Learning for Multi-Points NLOS Localization in OFDM System](https://ieeexplore.ieee.org/abstract/document/10669088)"_, which has been accepted by _IEEE Journal of Selected Topics in Signal Processing 2024_.
 
-A simplified version, titled _"[Multi -Sources Information Fusion Learning for Multi-Points NLOS Localization](https://ieeexplore.ieee.org/abstract/document/10683036)"_ has been accepted for _2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)_.
+A simplified version, titled _"[Multi-Sources Information Fusion Learning for Multi-Points NLOS Localization](https://ieeexplore.ieee.org/abstract/document/10683036)"_ has been accepted for _2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring)_.
+
+For the Chinese version of the blog, please visit [Zhihu](https://zhuanlan.zhihu.com/p/25095915277) or [CSDN](https://blog.csdn.net/Horizont_al/article/details/145757291).
 
 
 ## Guidance
